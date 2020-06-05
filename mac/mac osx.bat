@@ -1,1 +1,1 @@
-start cmd /k doskey terminal=start terminal
+start cmd /k doskey terminal=start terminal && ver
